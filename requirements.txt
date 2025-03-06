@@ -6,3 +6,5 @@ pandas
 joblib
 scikit-learn
 time
+streamlit_option_menu
+Counter
